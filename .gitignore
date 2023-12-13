@@ -33,6 +33,7 @@ DerivedData/
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
+.DS_Store
 
 # Swift Package Manager
 #
